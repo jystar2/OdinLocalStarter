@@ -58,3 +58,4 @@ C:\Users\Star2\Desktop\Monitor\OdinLocalStarter\explorer\obj\x64\Debug\LineCall_
 C:\Users\Star2\Desktop\Monitor\OdinLocalStarter\explorer\obj\x64\Debug\LineCall.g.resources
 C:\Users\Star2\Desktop\Monitor\OdinLocalStarter\explorer\obj\x64\Debug\LineCall.exe
 C:\Users\Star2\Desktop\Monitor\OdinLocalStarter\explorer\obj\x64\Debug\LineCall.pdb
+C:\Users\Star2\Desktop\Monitor\OdinLocalStarter\explorer\obj\x64\Debug\LineCall.csproj.AssemblyReference.cache
